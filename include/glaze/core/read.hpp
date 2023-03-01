@@ -9,6 +9,9 @@
 
 #include <span>
 
+// Why?
+#include "glaze/core/opts.hpp"
+
 namespace glz
 {
    template <opts Opts>

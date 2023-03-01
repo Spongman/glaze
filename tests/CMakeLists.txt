@@ -23,6 +23,7 @@ add_code_coverage_all_targets()
 
 add_subdirectory(api_test)
 add_subdirectory(binary_test)
+add_subdirectory(csv_test)
 add_subdirectory(eigen_test)
 add_subdirectory(json_test)
 add_subdirectory(lib_test)

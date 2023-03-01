@@ -14,6 +14,7 @@ namespace glz
       // INTERNAL USE
       uint32_t indentation_level{};
       std::string current_file;  // top level file path
+      uint32_t csv_index{};
    };
    
    template <class T>
